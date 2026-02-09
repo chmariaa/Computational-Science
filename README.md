@@ -1,3 +1,3 @@
 # Computational-Science
-![Program Output](output.png)
-![Program Output](output-graph.png)
+![Program Output](Lab1/image/output.png)
+![Program Output](Lab1/image/output-graph.png)
